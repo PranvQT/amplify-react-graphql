@@ -17,6 +17,15 @@
       },
       "api": {
         "amplifyreactgraphql": {}
+      },
+      "function": {
+        "S3Triggercf6fe734": {
+          "deploymentBucketName": "amplify-amplify9ebe6e3543374-staging-81723-deployment",
+          "s3Key": "amplify-builds/S3Triggercf6fe734-732b4d53374c3635526f-build.zip"
+        }
+      },
+      "storage": {
+        "images": {}
       }
     }
   }
